@@ -1,0 +1,51 @@
+Platform: TryHackMe
+Category: Social Engineering / Email Analysis
+
+Introduction
+The Phishing Pond serves as an introductory TryHackMe exercise focused on the fundamentals of phishing detection.
+This room emphasizes the importance of recognizing phishing attempts through careful observation, logical reasoning,
+and heightened security awareness rather than relying on technical exploits. The exercise presents simulated phishing emails that mimic those commonly encountered in real-world scenarios.
+
+Objectives
+The core objectives of this exercise are to familiarize learners with common phishing techniques,
+identify suspicious characteristics within email content, understand the psychological manipulation strategies employed by attackers,
+and ultimately enhance both personal and organizational security awareness against email-based threats.
+
+Tools & Skills Used
+Analysis within this exercise relies on critical thinking, detailed email content review, careful URL and hyperlink inspection,
+domain authenticity verification, and an understanding of basic social engineering tactics used to deceive recipients.
+
+Scenario Overview
+In this room, multiple email samples are provided, each requiring classification as either legitimate or phishing.
+The challenge extends beyond mere identification—participants must articulate the specific reasons an email is deemed malicious,
+reinforcing a deeper comprehension of phishing indicators.
+
+Analysis Approach
+The investigation begins with an examination of the email subject line, which often contains alarming language, fake reward notifications,
+or impersonation of authoritative entities—all common tactics to provoke an immediate response.
+
+Next, the sender’s information is scrutinized, frequently revealing discrepancies such as display names that mimic trusted organizations while
+the actual email address originates from unrelated or free domains—a clear red flag for impersonation.
+
+The body of the email is then reviewed for suspicious elements, including grammatical errors, unsolicited requests for credentials or personal information,
+and prompts to verify account details via embedded links—requests that legitimate organizations typically avoid in unsolicited communications.
+
+Finally, links within the email are analyzed without clicking, often uncovering mismatched URLs, the use of URL shorteners to conceal destinations,
+or domain names intentionally crafted to resemble legitimate ones—key indicators of malicious intent.
+
+Common Phishing Techniques Observed
+Throughout the exercise, several recurring techniques were identified: brand impersonation, where attackers pose as well-known companies;
+fear-based messaging designed to threaten or alarm; reward scams that lure victims with fake prizes; credential harvesting via deceptive login pages; and domain spoofing using look-alike URLs to trick users.
+
+Final Verdict
+Each suspicious email within the exercise was confidently identified as a phishing attempt based on a consistent pattern of indicators found in 
+sender details, content composition, and embedded links.
+
+Key Takeaways
+Essential lessons from this exercise highlight that phishing attacks primarily exploit human psychology rather than technical vulnerabilities.
+It is crucial to always verify sender identities, resist clicking links under pressure, recognize that user awareness forms the first line of defense,
+and acknowledge that individuals are often the primary target in such attacks.
+
+Conclusion
+The Phishing Pond effectively builds foundational phishing awareness skills that are indispensable for users across both technical and non-technical roles.
+These competencies are vital in real-world environments where phishing continues to be a leading cause of security incidents and data breaches.
